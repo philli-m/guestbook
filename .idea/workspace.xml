@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="483feb71-8092-4b47-a123-11cb4b3632d2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mySite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guestbook.db" afterPath="$PROJECT_DIR$/guestbook.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stringcomparison.php" afterPath="$PROJECT_DIR$/stringcomparison.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
     </list>
     <ignored path="guestbook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,34 +44,31 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.25">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding>
-                <marker date="1450201396000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
-                <marker date="1450201396000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+                <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+                <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stringcomparison.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stringcomparison.php">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78608245">
-              <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
-              <folding>
-                <element signature="e#7#45#0#PHP" expanded="true" />
-                <marker date="1450715457000" expanded="true" signature="1175:1192" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.505618">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eular.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eular.php">
+      <file leaf-file-name="todo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -74,18 +77,40 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-2.5">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.html">
+      <file leaf-file-name="stringcomparison.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stringcomparison.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+              <folding>
+                <marker date="1450795492000" expanded="true" signature="2672:2689" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mySite.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mySite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,10 +125,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/styles/main.css" />
-        <option value="$PROJECT_DIR$/views/index.html" />
-        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/eular.php" />
+        <option value="$PROJECT_DIR$/mySite.php" />
+        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/stringcomparison.php" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/todo.html" />
       </list>
     </option>
   </component>
@@ -117,9 +144,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
+    <option name="x" value="1283" />
     <option name="y" value="-377" />
-    <option name="width" value="1401" />
+    <option name="width" value="1917" />
     <option name="height" value="1140" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -205,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,23 +264,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="guestbook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="guestbook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,19 +352,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-377" width="1401" height="1140" extended-state="0" />
+    <frame x="1283" y="-377" width="1917" height="1140" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20750552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15466666" sideWeight="0.49589685" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919848" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05327343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18571429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860687" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15466666" sideWeight="0.5041032" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -386,8 +399,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450201396000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
-            <marker date="1450201396000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
           </folding>
         </state>
       </provider>
@@ -397,8 +432,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1450201396000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
-            <marker date="1450201396000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
           </folding>
         </state>
       </provider>
@@ -408,8 +443,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#7#45#0#PHP" expanded="true" />
-            <marker date="1450715457000" expanded="true" signature="1175:1192" placeholder="..." />
+            <marker date="1450795492000" expanded="true" signature="2672:2689" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -435,8 +469,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding>
-            <marker date="1450201396000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
-            <marker date="1450201396000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
           </folding>
         </state>
       </provider>
@@ -446,17 +480,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <marker date="1450201396000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
-            <marker date="1450201396000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -470,28 +493,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-2.5">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.html">
+    <entry file="file://$PROJECT_DIR$/mySite.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.75">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stringcomparison.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78608245">
-          <caret line="154" column="24" selection-start-line="154" selection-start-column="24" selection-end-line="154" selection-end-column="24" />
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
           <folding>
-            <element signature="e#7#45#0#PHP" expanded="true" />
-            <marker date="1450715457000" expanded="true" signature="1175:1192" placeholder="..." />
+            <marker date="1450795492000" expanded="true" signature="2672:2689" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <marker date="1450789525000" expanded="true" signature="167:235" placeholder="INSERT INTO guestbook..." />
+            <marker date="1450789525000" expanded="true" signature="270:293" placeholder="SELECT * FRO..guestbook..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.505618">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

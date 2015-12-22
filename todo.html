@@ -1,0 +1,48 @@
+<!
+<html>
+<head>
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css" />
+    <title>ToDo</title>
+</head>
+<body>
+
+<h1>This is my ToDo list</h1>
+
+<form method="post" action="/" name="myForm">
+    <span class="form_field">
+        <label for="comment">Thing to do:
+        <input id="comment" name="comment" type="text">
+        </label>
+    </span>
+    <span class="form_field">
+        <label>Due date:
+            <input type="date">
+        </label>
+    </span>
+    <span class="form_field">
+        <label>Radio
+            <input type="radio">
+        </label>
+    </span>
+    <span class="form_field">
+        <label>Check Box
+        <input type="checkbox">
+        </label>
+    </span>
+    <span>
+        <label>
+        <button type="button">Submit</button>
+        </label>
+    </span>
+</form>
+
+<?php
+        foreach($comments as $comment) {
+            echo $comment . "<br>";
+}
+?>
+
+</body>
+</html>

@@ -17,19 +17,18 @@
 <div class="container">
     <h1>GuestBook</h1>
     <p class="lead">hello world</p>
-    <?php
-        foreach($comments as $comment) {
-            echo $comment;
-            }
-
-    ?>
-    <form method="post" action="/">
+    <form method="post" action="index.php">
         <div class="form-group">
             <label for="comment">This is the text area</label>
             <textarea id="comment" name="comment" class="form-control" rows="3"></textarea>
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
     </form>
+    <?php
+        foreach($comments as $comment) {
+            echo $comment . "<br>";
+            }
+    ?>
 </div>
 </body>
 
