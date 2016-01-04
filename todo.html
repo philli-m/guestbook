@@ -10,7 +10,7 @@
 
 <h1>This is my ToDo list</h1>
 
-<form method="post" action="/" name="myForm">
+<form method="post" action="todo.php" name="myForm">
     <span class="form_field">
         <label for="comment">Thing to do:
         <input id="comment" name="comment" type="text">
@@ -33,16 +33,14 @@
     </span>
     <span>
         <label>
-        <button type="button">Submit</button>
+            <button type="submit" class="btn btn-default">Submit</button>
         </label>
     </span>
 </form>
 
 <?php
         foreach($comments as $comment) {
-            echo $comment . "<br>";
-}
-?>
+            echo $comment . <br>
 
 </body>
 </html>

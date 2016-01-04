@@ -1,5 +1,11 @@
 <?php
 
+function myFunc($c, $l) {
+    echo "how much is that " . $c . " in the window, i do hope that " . $c . "'s" . " for " . $l;
+    echo "<br>";
+}
+myFunc("iguana", "hunting");
+
 //**** Areas of shapes ****
 
 function areaRec($l, $w) {
@@ -22,7 +28,7 @@ function areaTrap($t, $b, $h){
 }
 
 function areasDif($x, $y){
-    echo "Shapes with dimentsions of " . $x . " by " . $y . "have varying areas";
+    echo "Shapes with dimentsions of " . $x . " by " . $y . " have varying areas";
     $rec = areaRec($x, $y);
     $tri = areaTri($x, $y);
     $cir = areaCir($x);
