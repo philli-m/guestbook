@@ -1,16 +1,25 @@
 <?php
 
-$database = mysqli_connect('127.0.0.1', 'root', 'ServantEgg86', 'todo')
-or die('Error connecting to MySQL server.');
+$comments = [];
 
-$comment = $_POST['comment'];
+$host = '127.0.0.1';
+$username = 'root';
+$password = 'ServantEgg86';
 
+$dbConnection = mysqli_connect($host, $username, $password, 'todo')
+    or die("Go back, here be Dragons");
+echo "you are safe now";
 
-$query = "INSERT INTO todo_list (comment) VALUES ('$comment')";
+$comments = $_POST['comment'];
+$date = $_POST['date'];
 
-$database->exec("INSERT INTO guestbook (comment) VALUES ('" . $_POST["comment"] . "')");
+$query = "INSERT INTO todo_list (comments, date) VALUES ('$comments', '$date')";
 
-mysqli_query($database, $query)
-    or die(mysqli_error($database));
+//$database->exec("INSERT INTO guestbook (comment) VALUES ('" . $_POST["comment"] . "')");
 
-mysqli_close($database);
+mysqli_query($dbConnection, $query)
+    or die(mysqli_error($dbConnection));
+echo "something has worked";
+
+mysqli_close($dbConnection);
+

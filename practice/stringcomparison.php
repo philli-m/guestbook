@@ -92,7 +92,6 @@ inspectVar("harry");
 //        }
 //}
 
-
 //**** Fibonacci numbers ****
 
     $fibonaccitotal = 0;
@@ -313,5 +312,27 @@ inspectVar("harry");
 //    echo $multiples;
 //
 //    echo "hello take 2";
+
+function Mine($h) {
+    echo "this delicious " . $h . " is all mine";
+}
+
+Mine("snake");
+
+for($x = 0; $x <10; $x++) {
+    if($x % 2 == 0) {
+        echo "I am an even number yo" . "<br>";
+    }else {
+        echo "i'm not" . "<br>";
+    }
+}
+
+$myArray = array("doe", "ray", "me", "far", "so", "la", "ti", "doe");
+
+$num = count($myArray);
+
+foreach($myArray as $note) {
+    echo "I can sing " . $note . "<br>";
+}
 
 ?>
