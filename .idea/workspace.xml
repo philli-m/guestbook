@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="483feb71-8092-4b47-a123-11cb4b3632d2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/eular.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/mySite.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guestbook.db" afterPath="$PROJECT_DIR$/guestbook.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/stringcomparison.php" afterPath="$PROJECT_DIR$/practice/stringcomparison.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/todo.html" afterPath="$PROJECT_DIR$/practice/todo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/todo.php" afterPath="$PROJECT_DIR$/practice/todo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.php" afterPath="$PROJECT_DIR$/web/index.php" />
-    </list>
+    <list default="true" id="483feb71-8092-4b47-a123-11cb4b3632d2" name="Default" comment="" />
     <ignored path="guestbook.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
